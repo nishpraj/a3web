@@ -63,6 +63,7 @@ body {
   /* Styles for text within the text box */
   .text {
     margin-bottom: 20px;
+    text-align: justify
   }
   
   .text h2 {
