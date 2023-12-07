@@ -90,6 +90,7 @@ body {
     color: white;
     margin-left: 10px;
     margin-right: 10px;
+    text-align: justify;
   }
 
 /* Updated styles for responsiveness at different screen sizes */
