@@ -51,7 +51,7 @@ body {
   /* Styles for the content within the container */
   .content {
      /* Adjust the max-width as needed */
-    text-align: center;
+    text-align: justufy;
   }
   /* Styling for the text box within the content */
   .text-box {
