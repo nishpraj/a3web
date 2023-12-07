@@ -11,7 +11,7 @@ function navbar() {
     x.className = "topnav";
   }
 }   
-/* Function to toggle the responsiveness of the footer */
+/* Function to toggle the responsiveness of the footer(priyanka Rathod) */
 function toggleFooter() {
   // Get the element with the class name "footer"
   var footer = document.querySelector('.footer');
