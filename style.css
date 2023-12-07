@@ -81,7 +81,7 @@ body {
   }
   /*hover for learn more box designed by kabir,sources:w3schools */ 
   .text a:hover {
-    background-color: #848888; /* Change the background color on hover */
+    background-color: #848888;/* Change the background color on hover */
   }
   
 .p {
@@ -154,6 +154,7 @@ body {
  /* hovering designed by kabir */ 
   div.gallery:hover {
     border: 1px solid #777;
+    colour: Black;
   }
   
   div.gallery img {
