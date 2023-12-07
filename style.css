@@ -51,7 +51,7 @@ body {
   /* Styles for the content within the container */
   .content {
      /* Adjust the max-width as needed */
-    text-align: justufy;
+    text-align: center;
   }
   /* Styling for the text box within the content */
   .text-box {
@@ -63,7 +63,6 @@ body {
   /* Styles for text within the text box */
   .text {
     margin-bottom: 20px;
-    text-align: justify
   }
   
   .text h2 {
