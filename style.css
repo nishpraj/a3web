@@ -426,13 +426,14 @@ border-radius: 30%;
   color: white;
 }
 
-    /* Styling Expertise section with 3 column layout for images and list for information */
+ /* Styling Expertise section with 3 column layout for images and list for information */
 .expertise {
   margin: 20px 0;
+ 
 }
  
 .expitem {
-  background-color: white;
+  background-color: #f9f9f9;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -449,16 +450,11 @@ border-radius: 30%;
   margin-bottom: 20px;
   height:auto
 }
-
+ 
 .row:after {
   content: "";
   clear: both;
   display: table;
-}
-  
-    color: white;
-    align-items: center;
-
 }
 /*Butoon style*/
 .button{
