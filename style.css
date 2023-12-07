@@ -153,8 +153,8 @@ body {
   }
  /* hovering designed by kabir */ 
   div.gallery:hover {
-    border: 1px solid;
-    colour: Black;
+    border: 1px solid #777;
+  
   }
   
   div.gallery img {
