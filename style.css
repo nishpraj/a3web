@@ -19,7 +19,7 @@ body {
     text-decoration: none;
     font-size: 17px;
   }
-  /* Styles for active/hover states of navigation links */
+  /* Styles for active/hover states of navigation links, designed by kabir,sources:w3schools */
   .topnav a:hover {
     background-color: #979191;
     color: black;
@@ -80,7 +80,7 @@ body {
     display: inline-block;
     Text-align: Justify 
   }
-  /*hover for learn more box*/
+  /*hover for learn more box designed by kabir,sources:w3schools */ 
   .text a:hover {
     background-color: #848888; /* Change the background color on hover */
   }
@@ -151,7 +151,7 @@ body {
   div.gallery {
     border: 1px solid #ccc;
   }
-  
+ /* hovering designed by kabir */ 
   div.gallery:hover {
     border: 1px solid #777;
   }
@@ -320,7 +320,7 @@ body {
   text-decoration: none;
   margin: 5px 2px;
 }
- 
+ /* hovering on footer designed by kabir,sources: w3schools */
 .fa:hover {
   opacity: 0.7;
 }
